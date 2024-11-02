@@ -1,0 +1,64 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "rasis_hexathlon_bpl.moc3",
+		"Textures": [
+			"rasis_hexathlon_bpl.4096/texture_00.png"
+		],
+		"Physics": "rasis_hexathlon_bpl.physics3.json",
+		"DisplayInfo": "rasis_hexathlon_bpl.cdi3.json",
+		"Motions": {
+			"In": [
+				{
+					"File": "rasis_hexathlon_m01a_in.motion3.json"
+				}
+			],
+			"Idle": [
+				{
+					"File": "rasis_hexathlon_m02a_idle.motion3.json"
+				}
+			],
+			"Ok": [
+				{
+					"File": "rasis_hexathlon_m03a_kettei.motion3.json"
+				}
+			],
+			"Out": [
+				{
+					"File": "rasis_hexathlon_m04a_out.motion3.json"
+				}
+			],
+			"R_Good": [
+				{
+					"File": "rasis_hexathlon_m05a_good.motion3.json"
+				}
+			],
+			"R_Bad": [
+				{
+					"File": "rasis_hexathlon_m06a_bad.motion3.json"
+				}
+			],
+			"R_Verygood": [
+				{
+					"File": "rasis_hexathlon_m07a_verygood.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		}
+	],
+	"HitAreas": []
+}

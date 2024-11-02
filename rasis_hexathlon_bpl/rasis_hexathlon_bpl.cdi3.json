@@ -1,0 +1,1221 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "ParamGroup20",
+			"Name": "口　変形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup20",
+			"Name": "口　開閉"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "ParamGroup20",
+			"Name": "歯　透過"
+		},
+		{
+			"Id": "Param89",
+			"GroupId": "ParamGroup20",
+			"Name": "口　横幅"
+		},
+		{
+			"Id": "Param90",
+			"GroupId": "ParamGroup20",
+			"Name": "口　位置X"
+		},
+		{
+			"Id": "Param91",
+			"GroupId": "ParamGroup20",
+			"Name": "口　位置Y"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup",
+			"Name": "左目　開閉"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup",
+			"Name": "右目　開閉"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "ParamGroup",
+			"Name": "左目　笑顔"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "ParamGroup",
+			"Name": "右目　笑顔"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "ParamGroup",
+			"Name": "目玉 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "ParamGroup",
+			"Name": "目玉 Y"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "ParamGroup",
+			"Name": "瞳サイズ"
+		},
+		{
+			"Id": "ParamBrowLX",
+			"GroupId": "ParamGroup",
+			"Name": "左眉　左右"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "ParamGroup",
+			"Name": "左眉　上下"
+		},
+		{
+			"Id": "ParamBrowRX",
+			"GroupId": "ParamGroup",
+			"Name": "右眉　左右"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "ParamGroup",
+			"Name": "右眉　上下"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "ParamGroup",
+			"Name": "左眉　角度"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "ParamGroup",
+			"Name": "右眉　角度"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "ParamGroup",
+			"Name": "左眉　変形"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "ParamGroup",
+			"Name": "右眉　変形"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "ParamGroup",
+			"Name": "照れ1"
+		},
+		{
+			"Id": "ParamCheek2",
+			"GroupId": "ParamGroup",
+			"Name": "照れ2"
+		},
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "ParamGroup2",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "ParamGroup2",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "ParamGroup2",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "ParamGroup2",
+			"Name": "頭調整 X"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "ParamGroup2",
+			"Name": "頭調整 Y"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "ParamGroup3",
+			"Name": "体の回転　X"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "ParamGroup3",
+			"Name": "体の回転　Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "ParamGroup3",
+			"Name": "体の回転　Z"
+		},
+		{
+			"Id": "Param50",
+			"GroupId": "ParamGroup3",
+			"Name": "ソリ⇔前屈"
+		},
+		{
+			"Id": "Param52",
+			"GroupId": "ParamGroup3",
+			"Name": "キャラ回転"
+		},
+		{
+			"Id": "Param42",
+			"GroupId": "ParamGroup3",
+			"Name": "キャラサイズ"
+		},
+		{
+			"Id": "Param56",
+			"GroupId": "ParamGroup3",
+			"Name": "キャラ移動X"
+		},
+		{
+			"Id": "Param57",
+			"GroupId": "ParamGroup3",
+			"Name": "キャラ移動Y"
+		},
+		{
+			"Id": "Param37",
+			"GroupId": "ParamGroup4",
+			"Name": "肩▶"
+		},
+		{
+			"Id": "Param36",
+			"GroupId": "ParamGroup4",
+			"Name": "肘▶"
+		},
+		{
+			"Id": "Param40",
+			"GroupId": "ParamGroup4",
+			"Name": "手首▶"
+		},
+		{
+			"Id": "Param26",
+			"GroupId": "ParamGroup4",
+			"Name": "親指▶"
+		},
+		{
+			"Id": "Param27",
+			"GroupId": "ParamGroup4",
+			"Name": "人差し指▶"
+		},
+		{
+			"Id": "Param28",
+			"GroupId": "ParamGroup4",
+			"Name": "中指▶"
+		},
+		{
+			"Id": "Param30",
+			"GroupId": "ParamGroup4",
+			"Name": "薬指▶"
+		},
+		{
+			"Id": "Param29",
+			"GroupId": "ParamGroup4",
+			"Name": "小指▶"
+		},
+		{
+			"Id": "Param55",
+			"GroupId": "ParamGroup4",
+			"Name": "上腕▶収縮"
+		},
+		{
+			"Id": "Param54",
+			"GroupId": "ParamGroup4",
+			"Name": "前腕▶収縮"
+		},
+		{
+			"Id": "Param45",
+			"GroupId": "ParamGroup10",
+			"Name": "手A▶透過"
+		},
+		{
+			"Id": "Param46",
+			"GroupId": "ParamGroup10",
+			"Name": "手B▶透過"
+		},
+		{
+			"Id": "Param47",
+			"GroupId": "ParamGroup10",
+			"Name": "手C▶透過"
+		},
+		{
+			"Id": "Param74",
+			"GroupId": "ParamGroup10",
+			"Name": "腕ハイ▶外"
+		},
+		{
+			"Id": "Param78",
+			"GroupId": "ParamGroup10",
+			"Name": "腕ハイ▶内"
+		},
+		{
+			"Id": "Param51",
+			"GroupId": "ParamGroup10",
+			"Name": "前腕▶透過"
+		},
+		{
+			"Id": "Param48",
+			"GroupId": "ParamGroup10",
+			"Name": "手つきだし▶透過"
+		},
+		{
+			"Id": "Param49",
+			"GroupId": "ParamGroup10",
+			"Name": "腕▶優先度"
+		},
+		{
+			"Id": "Param53",
+			"GroupId": "ParamGroup10",
+			"Name": "リスト▶A⇔BC"
+		},
+		{
+			"Id": "Param83",
+			"GroupId": "ParamGroup10",
+			"Name": "親指▶優先"
+		},
+		{
+			"Id": "Param63",
+			"GroupId": "ParamGroup19",
+			"Name": "肩◀"
+		},
+		{
+			"Id": "Param62",
+			"GroupId": "ParamGroup19",
+			"Name": "肘◀"
+		},
+		{
+			"Id": "Param64",
+			"GroupId": "ParamGroup19",
+			"Name": "手首◀"
+		},
+		{
+			"Id": "Param43",
+			"GroupId": "ParamGroup19",
+			"Name": "親指◀"
+		},
+		{
+			"Id": "Param44",
+			"GroupId": "ParamGroup19",
+			"Name": "人差し指◀"
+		},
+		{
+			"Id": "Param59",
+			"GroupId": "ParamGroup19",
+			"Name": "中指◀"
+		},
+		{
+			"Id": "Param61",
+			"GroupId": "ParamGroup19",
+			"Name": "薬指◀"
+		},
+		{
+			"Id": "Param60",
+			"GroupId": "ParamGroup19",
+			"Name": "小指◀"
+		},
+		{
+			"Id": "Param66",
+			"GroupId": "ParamGroup19",
+			"Name": "上腕◀収縮"
+		},
+		{
+			"Id": "Param65",
+			"GroupId": "ParamGroup19",
+			"Name": "前腕◀収縮"
+		},
+		{
+			"Id": "Param67",
+			"GroupId": "ParamGroup9",
+			"Name": "手A◀透過"
+		},
+		{
+			"Id": "Param68",
+			"GroupId": "ParamGroup9",
+			"Name": "手B◀透過"
+		},
+		{
+			"Id": "Param69",
+			"GroupId": "ParamGroup9",
+			"Name": "手C◀透過"
+		},
+		{
+			"Id": "Param79",
+			"GroupId": "ParamGroup9",
+			"Name": "腕ハイ◀外"
+		},
+		{
+			"Id": "Param80",
+			"GroupId": "ParamGroup9",
+			"Name": "腕ハイ◀内"
+		},
+		{
+			"Id": "Param70",
+			"GroupId": "ParamGroup9",
+			"Name": "手つきだし◀透過"
+		},
+		{
+			"Id": "Param72",
+			"GroupId": "ParamGroup9",
+			"Name": "前腕◀透過"
+		},
+		{
+			"Id": "Param71",
+			"GroupId": "ParamGroup9",
+			"Name": "腕◀優先度"
+		},
+		{
+			"Id": "Param73",
+			"GroupId": "ParamGroup9",
+			"Name": "リスト◀A⇔BC"
+		},
+		{
+			"Id": "Param31",
+			"GroupId": "ParamGroup5",
+			"Name": "もも▶"
+		},
+		{
+			"Id": "Param32",
+			"GroupId": "ParamGroup5",
+			"Name": "ひざ▶"
+		},
+		{
+			"Id": "Param33",
+			"GroupId": "ParamGroup5",
+			"Name": "足首▶"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "ParamGroup5",
+			"Name": "すね▶伸縮"
+		},
+		{
+			"Id": "Param39",
+			"GroupId": "ParamGroup5",
+			"Name": "もも▶収縮"
+		},
+		{
+			"Id": "Param34",
+			"GroupId": "ParamGroup18",
+			"Name": "もも◀"
+		},
+		{
+			"Id": "Param35",
+			"GroupId": "ParamGroup18",
+			"Name": "ひざ◀"
+		},
+		{
+			"Id": "Param38",
+			"GroupId": "ParamGroup18",
+			"Name": "足首◀"
+		},
+		{
+			"Id": "Param81",
+			"GroupId": "ParamGroup18",
+			"Name": "すね◀伸縮"
+		},
+		{
+			"Id": "Param41",
+			"GroupId": "ParamGroup18",
+			"Name": "もも◀収縮"
+		},
+		{
+			"Id": "Param58",
+			"GroupId": "ParamGroup17",
+			"Name": "キャラ透過"
+		},
+		{
+			"Id": "Param76",
+			"GroupId": "ParamGroup17",
+			"Name": "目立つところ透過"
+		},
+		{
+			"Id": "Param92",
+			"GroupId": "ParamGroup17",
+			"Name": "揺れ物ダミー"
+		},
+		{
+			"Id": "Param93",
+			"GroupId": "ParamGroup17",
+			"Name": "胸揺れダミー"
+		},
+		{
+			"Id": "Param75",
+			"GroupId": "ParamGroup17",
+			"Name": "キャラ配置X"
+		},
+		{
+			"Id": "Param77",
+			"GroupId": "ParamGroup17",
+			"Name": "キャラ配置Y"
+		},
+		{
+			"Id": "Param12",
+			"GroupId": "ParamGroup6",
+			"Name": "アホ毛揺れ X"
+		},
+		{
+			"Id": "Param13",
+			"GroupId": "ParamGroup6",
+			"Name": "アホ毛揺れ Y"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "ParamGroup6",
+			"Name": "前髪センター揺れ X"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "ParamGroup6",
+			"Name": "前髪センター揺れ Y"
+		},
+		{
+			"Id": "Param86",
+			"GroupId": "ParamGroup6",
+			"Name": "前髪センター　揺れX2"
+		},
+		{
+			"Id": "Param10",
+			"GroupId": "ParamGroup6",
+			"Name": "前髪◀揺れ X"
+		},
+		{
+			"Id": "Param11",
+			"GroupId": "ParamGroup6",
+			"Name": "前髪◀揺れ Y"
+		},
+		{
+			"Id": "Param87",
+			"GroupId": "ParamGroup6",
+			"Name": "前髪◀揺れX2"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "ParamGroup6",
+			"Name": "前髪▶揺れ X"
+		},
+		{
+			"Id": "Param9",
+			"GroupId": "ParamGroup6",
+			"Name": "前髪▶揺れ Y"
+		},
+		{
+			"Id": "Param88",
+			"GroupId": "ParamGroup6",
+			"Name": "前髪▶揺れX2"
+		},
+		{
+			"Id": "Param18",
+			"GroupId": "ParamGroup6",
+			"Name": "ツイン▶揺れ X"
+		},
+		{
+			"Id": "Param19",
+			"GroupId": "ParamGroup6",
+			"Name": "ツイン▶揺れ Y"
+		},
+		{
+			"Id": "Param84",
+			"GroupId": "ParamGroup6",
+			"Name": "ツイン▶揺れ X2"
+		},
+		{
+			"Id": "Param20",
+			"GroupId": "ParamGroup6",
+			"Name": "ツイン◀揺れ X"
+		},
+		{
+			"Id": "Param21",
+			"GroupId": "ParamGroup6",
+			"Name": "ツイン◀揺れ Y"
+		},
+		{
+			"Id": "Param85",
+			"GroupId": "ParamGroup6",
+			"Name": "ツイン◀揺れx2"
+		},
+		{
+			"Id": "Param22",
+			"GroupId": "ParamGroup6",
+			"Name": "靴ひも◀揺れ X"
+		},
+		{
+			"Id": "Param23",
+			"GroupId": "ParamGroup6",
+			"Name": "靴ひも◀揺れ Y"
+		},
+		{
+			"Id": "Param24",
+			"GroupId": "ParamGroup6",
+			"Name": "靴ひも▶揺れ X"
+		},
+		{
+			"Id": "Param25",
+			"GroupId": "ParamGroup6",
+			"Name": "靴ひも▶揺れ Y"
+		},
+		{
+			"Id": "Param14",
+			"GroupId": "ParamGroup6",
+			"Name": "胸揺れ X"
+		},
+		{
+			"Id": "Param15",
+			"GroupId": "ParamGroup6",
+			"Name": "胸揺れ Y"
+		},
+		{
+			"Id": "Param94",
+			"GroupId": "ParamGroup6",
+			"Name": "もみあげ揺れ◀"
+		},
+		{
+			"Id": "Param95",
+			"GroupId": "ParamGroup6",
+			"Name": "もみあげ揺れ▶"
+		},
+		{
+			"Id": "Param16",
+			"GroupId": "ParamGroup6",
+			"Name": "シャツ揺れ X"
+		},
+		{
+			"Id": "Param17",
+			"GroupId": "ParamGroup6",
+			"Name": "シャツ揺れ Y"
+		},
+		{
+			"Id": "Param82",
+			"GroupId": "ParamGroup6",
+			"Name": "シャツ揺れ 波"
+		},
+		{
+			"Id": "Param_Angle_Rotation3",
+			"GroupId": "ParamGroup7",
+			"Name": "[0]横髪▶演算"
+		},
+		{
+			"Id": "Param_Angle_Rotation4",
+			"GroupId": "ParamGroup7",
+			"Name": "[1]横髪▶演算"
+		},
+		{
+			"Id": "Param_Angle_Rotation5",
+			"GroupId": "ParamGroup7",
+			"Name": "[2]横髪▶演算"
+		},
+		{
+			"Id": "Param_Angle_Rotation6",
+			"GroupId": "ParamGroup7",
+			"Name": "[3]横髪▶演算"
+		},
+		{
+			"Id": "Param_Angle_Rotation7",
+			"GroupId": "ParamGroup7",
+			"Name": "[4]横髪▶演算"
+		},
+		{
+			"Id": "Param_Angle_Rotation14",
+			"GroupId": "ParamGroup7",
+			"Name": "[5]横髪▶演算"
+		},
+		{
+			"Id": "Param_Angle_Rotation8",
+			"GroupId": "ParamGroup8",
+			"Name": "[0]横髪◀乗算"
+		},
+		{
+			"Id": "Param_Angle_Rotation9",
+			"GroupId": "ParamGroup8",
+			"Name": "[1]横髪◀乗算"
+		},
+		{
+			"Id": "Param_Angle_Rotation10",
+			"GroupId": "ParamGroup8",
+			"Name": "[2]横髪◀乗算"
+		},
+		{
+			"Id": "Param_Angle_Rotation11",
+			"GroupId": "ParamGroup8",
+			"Name": "[3]横髪◀乗算"
+		},
+		{
+			"Id": "Param_Angle_Rotation12",
+			"GroupId": "ParamGroup8",
+			"Name": "[4]横髪◀乗算"
+		},
+		{
+			"Id": "Param_Angle_Rotation13",
+			"GroupId": "ParamGroup8",
+			"Name": "[5]横髪◀乗算"
+		},
+		{
+			"Id": "Param_Angle_Rotation15",
+			"GroupId": "ParamGroup12",
+			"Name": "[0]ポニテ演算"
+		},
+		{
+			"Id": "Param_Angle_Rotation16",
+			"GroupId": "ParamGroup12",
+			"Name": "[1]ポニテ演算"
+		},
+		{
+			"Id": "Param_Angle_Rotation17",
+			"GroupId": "ParamGroup12",
+			"Name": "[2]ポニテ演算"
+		},
+		{
+			"Id": "Param_Angle_Rotation18",
+			"GroupId": "ParamGroup12",
+			"Name": "[3]ポニテ演算"
+		},
+		{
+			"Id": "Param_Angle_Rotation19",
+			"GroupId": "ParamGroup12",
+			"Name": "[4]ポニテ演算"
+		},
+		{
+			"Id": "Param_Angle_Rotation20",
+			"GroupId": "ParamGroup12",
+			"Name": "[5]ポニテ演算"
+		},
+		{
+			"Id": "Param_Angle_Rotation21",
+			"GroupId": "ParamGroup12",
+			"Name": "[6]ポニテ演算"
+		},
+		{
+			"Id": "Param_Angle_Rotation22",
+			"GroupId": "ParamGroup12",
+			"Name": "[7]ポニテ演算"
+		},
+		{
+			"Id": "Param_Angle_Rotation23",
+			"GroupId": "ParamGroup13",
+			"Name": "[0]後髪XY2"
+		},
+		{
+			"Id": "Param_Angle_Rotation24",
+			"GroupId": "ParamGroup13",
+			"Name": "[1]後髪XY2"
+		},
+		{
+			"Id": "Param_Angle_Rotation25",
+			"GroupId": "ParamGroup13",
+			"Name": "[2]後髪XY2"
+		},
+		{
+			"Id": "Param_Angle_Rotation26",
+			"GroupId": "ParamGroup13",
+			"Name": "[3]後髪XY2"
+		},
+		{
+			"Id": "Param_Angle_Rotation27",
+			"GroupId": "ParamGroup13",
+			"Name": "[4]後髪XY2"
+		},
+		{
+			"Id": "Param_Angle_Rotation28",
+			"GroupId": "ParamGroup13",
+			"Name": "[5]後髪XY2"
+		},
+		{
+			"Id": "Param_Angle_Rotation29",
+			"GroupId": "ParamGroup13",
+			"Name": "[6]後髪XY2"
+		},
+		{
+			"Id": "Param_Angle_Rotation30",
+			"GroupId": "ParamGroup13",
+			"Name": "[7]後髪XY2"
+		},
+		{
+			"Id": "Param_Angle_Rotation31",
+			"GroupId": "ParamGroup14",
+			"Name": "[0]後髪▶演算"
+		},
+		{
+			"Id": "Param_Angle_Rotation32",
+			"GroupId": "ParamGroup14",
+			"Name": "[1]後髪▶演算"
+		},
+		{
+			"Id": "Param_Angle_Rotation33",
+			"GroupId": "ParamGroup14",
+			"Name": "[2]後髪▶演算"
+		},
+		{
+			"Id": "Param_Angle_Rotation34",
+			"GroupId": "ParamGroup14",
+			"Name": "[3]後髪▶演算"
+		},
+		{
+			"Id": "Param_Angle_Rotation35",
+			"GroupId": "ParamGroup14",
+			"Name": "[4]後髪▶演算"
+		},
+		{
+			"Id": "Param_Angle_Rotation36",
+			"GroupId": "ParamGroup14",
+			"Name": "[5]後髪▶演算"
+		},
+		{
+			"Id": "Param_Angle_Rotation37",
+			"GroupId": "ParamGroup14",
+			"Name": "[6]後髪▶演算"
+		},
+		{
+			"Id": "Param_Angle_Rotation38",
+			"GroupId": "ParamGroup14",
+			"Name": "[7]後髪▶演算"
+		},
+		{
+			"Id": "Param_Angle_Rotation39",
+			"GroupId": "ParamGroup15",
+			"Name": "[0]後髪◀演算"
+		},
+		{
+			"Id": "Param_Angle_Rotation40",
+			"GroupId": "ParamGroup15",
+			"Name": "[1]後髪◀演算"
+		},
+		{
+			"Id": "Param_Angle_Rotation41",
+			"GroupId": "ParamGroup15",
+			"Name": "[2]後髪◀演算"
+		},
+		{
+			"Id": "Param_Angle_Rotation42",
+			"GroupId": "ParamGroup15",
+			"Name": "[3]後髪◀演算"
+		},
+		{
+			"Id": "Param_Angle_Rotation43",
+			"GroupId": "ParamGroup15",
+			"Name": "[4]後髪◀演算"
+		},
+		{
+			"Id": "Param_Angle_Rotation44",
+			"GroupId": "ParamGroup15",
+			"Name": "[5]後髪◀演算"
+		},
+		{
+			"Id": "Param_Angle_Rotation45",
+			"GroupId": "ParamGroup15",
+			"Name": "[6]後髪◀演算"
+		},
+		{
+			"Id": "Param_Angle_Rotation46",
+			"GroupId": "ParamGroup15",
+			"Name": "[7]後髪◀演算"
+		},
+		{
+			"Id": "Param_Angle_Rotation47",
+			"GroupId": "ParamGroup16",
+			"Name": "[0]後髪◀◀演算"
+		},
+		{
+			"Id": "Param_Angle_Rotation48",
+			"GroupId": "ParamGroup16",
+			"Name": "[1]後髪◀◀演算"
+		},
+		{
+			"Id": "Param_Angle_Rotation49",
+			"GroupId": "ParamGroup16",
+			"Name": "[2]後髪◀◀演算"
+		},
+		{
+			"Id": "Param_Angle_Rotation50",
+			"GroupId": "ParamGroup16",
+			"Name": "[3]後髪◀◀演算"
+		},
+		{
+			"Id": "Param_Angle_Rotation51",
+			"GroupId": "ParamGroup16",
+			"Name": "[4]後髪◀◀演算"
+		},
+		{
+			"Id": "Param_Angle_Rotation52",
+			"GroupId": "ParamGroup16",
+			"Name": "[5]後髪◀◀演算"
+		},
+		{
+			"Id": "Param_Angle_Rotation53",
+			"GroupId": "ParamGroup16",
+			"Name": "[6]後髪◀◀演算"
+		},
+		{
+			"Id": "Param_Angle_Rotation54",
+			"GroupId": "ParamGroup16",
+			"Name": "[7]後髪◀◀演算"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "ParamGroup11",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "ParamAll_X",
+			"GroupId": "ParamGroup11",
+			"Name": "全体移動_X"
+		},
+		{
+			"Id": "ParamAll_Y",
+			"GroupId": "ParamGroup11",
+			"Name": "全体移動_Y"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup20",
+			"GroupId": "",
+			"Name": "口"
+		},
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "表情"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "頭"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "体"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "腕▶"
+		},
+		{
+			"Id": "ParamGroup10",
+			"GroupId": "",
+			"Name": "腕▶制御"
+		},
+		{
+			"Id": "ParamGroup19",
+			"GroupId": "",
+			"Name": "腕◀"
+		},
+		{
+			"Id": "ParamGroup9",
+			"GroupId": "",
+			"Name": "腕◀制御"
+		},
+		{
+			"Id": "ParamGroup5",
+			"GroupId": "",
+			"Name": "脚▶"
+		},
+		{
+			"Id": "ParamGroup18",
+			"GroupId": "",
+			"Name": "脚◀"
+		},
+		{
+			"Id": "ParamGroup17",
+			"GroupId": "",
+			"Name": "全体制御系"
+		},
+		{
+			"Id": "ParamGroup6",
+			"GroupId": "",
+			"Name": "揺れ物"
+		},
+		{
+			"Id": "ParamGroup7",
+			"GroupId": "",
+			"Name": "横髪▶演算"
+		},
+		{
+			"Id": "ParamGroup8",
+			"GroupId": "",
+			"Name": "横髪◀乗算"
+		},
+		{
+			"Id": "ParamGroup12",
+			"GroupId": "",
+			"Name": "ポニテ演算"
+		},
+		{
+			"Id": "ParamGroup13",
+			"GroupId": "",
+			"Name": "後髪▶▶演算"
+		},
+		{
+			"Id": "ParamGroup14",
+			"GroupId": "",
+			"Name": "後髪▶演算"
+		},
+		{
+			"Id": "ParamGroup15",
+			"GroupId": "",
+			"Name": "後髪◀演算"
+		},
+		{
+			"Id": "ParamGroup16",
+			"GroupId": "",
+			"Name": "後髪◀◀演算"
+		},
+		{
+			"Id": "ParamGroup11",
+			"GroupId": "",
+			"Name": "弄らない系"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "【ガイド】"
+		},
+		{
+			"Id": "Part4",
+			"Name": "不要"
+		},
+		{
+			"Id": "Part2",
+			"Name": "Hexathlonレイシス"
+		},
+		{
+			"Id": "Part7",
+			"Name": "頭制御"
+		},
+		{
+			"Id": "Part8",
+			"Name": "前髪"
+		},
+		{
+			"Id": "Part3",
+			"Name": "横髪"
+		},
+		{
+			"Id": "PartFace",
+			"Name": "顔"
+		},
+		{
+			"Id": "Part17",
+			"Name": "体"
+		},
+		{
+			"Id": "Part30",
+			"Name": "後髪"
+		},
+		{
+			"Id": "ArtMesh13_Skinning",
+			"Name": "横髪▶(スキニング)"
+		},
+		{
+			"Id": "ArtMesh16_Skinning",
+			"Name": "横髪▶　影(スキニング)"
+		},
+		{
+			"Id": "ArtMesh14_Skinning",
+			"Name": "横髪◀(スキニング)"
+		},
+		{
+			"Id": "ArtMesh15_Skinning",
+			"Name": "横髪◀　影(スキニング)"
+		},
+		{
+			"Id": "PartEye",
+			"Name": "目▶"
+		},
+		{
+			"Id": "PartEye2",
+			"Name": "目◀"
+		},
+		{
+			"Id": "Part13",
+			"Name": "口"
+		},
+		{
+			"Id": "Part12",
+			"Name": "頬"
+		},
+		{
+			"Id": "Part15",
+			"Name": "耳パーツ◀"
+		},
+		{
+			"Id": "Part16",
+			"Name": "耳パーツ▶"
+		},
+		{
+			"Id": "Part10",
+			"Name": "上半身"
+		},
+		{
+			"Id": "Part11",
+			"Name": "下半身"
+		},
+		{
+			"Id": "ArtMesh118_Skinning",
+			"Name": "後髪▶▶(スキニング)"
+		},
+		{
+			"Id": "ArtMesh119_Skinning",
+			"Name": "後髪▶(スキニング)"
+		},
+		{
+			"Id": "ArtMesh120_Skinning",
+			"Name": "後髪◀(スキニング)"
+		},
+		{
+			"Id": "ArtMesh121_Skinning",
+			"Name": "後髪◀◀(スキニング)"
+		},
+		{
+			"Id": "ArtMesh124_Skinning",
+			"Name": "ポニテ(スキニング)"
+		},
+		{
+			"Id": "Part14",
+			"Name": "口　開き"
+		},
+		{
+			"Id": "Part18",
+			"Name": "体"
+		},
+		{
+			"Id": "Part23",
+			"Name": "腕"
+		},
+		{
+			"Id": "Part27",
+			"Name": "脚"
+		},
+		{
+			"Id": "Part25",
+			"Name": "腕▶"
+		},
+		{
+			"Id": "Part19",
+			"Name": "腕◀"
+		},
+		{
+			"Id": "Part28",
+			"Name": "脚▶"
+		},
+		{
+			"Id": "Part29",
+			"Name": "脚◀"
+		},
+		{
+			"Id": "Part5",
+			"Name": "腕▶制御"
+		},
+		{
+			"Id": "Part6",
+			"Name": "前腕セット"
+		},
+		{
+			"Id": "Part24",
+			"Name": "親指B▶"
+		},
+		{
+			"Id": "Part9",
+			"Name": "上腕セット"
+		},
+		{
+			"Id": "Part31",
+			"Name": "腕◀制御"
+		},
+		{
+			"Id": "Part32",
+			"Name": "前腕セット"
+		},
+		{
+			"Id": "Part33",
+			"Name": "上腕セット"
+		},
+		{
+			"Id": "Part20",
+			"Name": "つきだし◀"
+		},
+		{
+			"Id": "Part21",
+			"Name": "手C"
+		},
+		{
+			"Id": "Part22",
+			"Name": "手B"
+		},
+		{
+			"Id": "Part26",
+			"Name": "手A◀"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamEyeBallX",
+			"ParamEyeBallY"
+		],
+		[
+			"ParamAngleX",
+			"ParamAngleY"
+		],
+		[
+			"Param4",
+			"Param5"
+		],
+		[
+			"Param56",
+			"Param57"
+		],
+		[
+			"Param75",
+			"Param77"
+		],
+		[
+			"Param12",
+			"Param13"
+		],
+		[
+			"Param6",
+			"Param7"
+		],
+		[
+			"Param10",
+			"Param11"
+		],
+		[
+			"Param8",
+			"Param9"
+		],
+		[
+			"Param18",
+			"Param19"
+		],
+		[
+			"Param20",
+			"Param21"
+		],
+		[
+			"Param22",
+			"Param23"
+		],
+		[
+			"Param24",
+			"Param25"
+		],
+		[
+			"Param16",
+			"Param17"
+		],
+		[
+			"ParamAll_X",
+			"ParamAll_Y"
+		]
+	]
+}

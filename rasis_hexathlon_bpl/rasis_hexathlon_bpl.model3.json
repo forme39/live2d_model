@@ -1,0 +1,79 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "rasis_hexathlon_bpl.moc3",
+		"Textures": [
+			"rasis_hexathlon_bpl.4096/texture_00.png"
+		],
+		"Physics": "rasis_hexathlon_bpl.physics3.json",
+		"DisplayInfo": "rasis_hexathlon_bpl.cdi3.json",
+		"Motions": {
+			"In1": [
+				{
+					"File": "rasis_hexathlon_bpl_01_in.motion3.json"
+				}
+			],
+			"Idle1": [
+				{
+					"File": "rasis_hexathlon_bpl_02_notes.motion3.json"
+				}
+			],
+			"Change1": [
+				{
+					"File": "rasis_hexathlon_bpl_03_change1.motion3.json"
+				}
+			],
+			"Change4": [
+				{
+					"File": "rasis_hexathlon_bpl_09_change4.motion3.json"
+				}
+			],
+			"Idle5": [
+				{
+					"File": "rasis_hexathlon_bpl_10_tricky.motion3.json"
+				}
+			],
+			"Change5": [
+				{
+					"File": "rasis_hexathlon_bpl_11_change5.motion3.json"
+				}
+			],
+			"Idle6": [
+				{
+					"File": "rasis_hexathlon_bpl_12_peak.motion3.json"
+				}
+			],
+			"Change6": [
+				{
+					"File": "rasis_hexathlon_bpl_13_change6.motion3.json"
+				}
+			],
+			"Idle7": [
+				{
+					"File": "rasis_hexathlon_bpl_14_loop.motion3.json"
+				}
+			],
+			"Last1": [
+				{
+					"File": "rasis_hexathlon_bpl_15_last.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		}
+	],
+	"HitAreas": []
+}
